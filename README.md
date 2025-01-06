@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Full Stack Developer 🚀</h3>
 
-- 🔭 I’m currently working on **Real Estate Management System** using Django and React
+- 🔭 I’m currently working on **Real Estate Management System** using **Django** and **React**
 - 🌱 I’m currently learning **React** and diving deeper into **cloud computing** and **deployment strategies**
 - 💬 Ask me about **web development**, **Python**, **Django**, **database management**, or **disaster management systems**
 - ⚡ Fun fact: I once tried teaching my computer to take a break... it just kept opening more tabs! 😄
@@ -15,6 +15,9 @@
   </a>
   <a href="https://codeforces.com/profile/harsh_kathrotiya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harsh_kathrotiya" height="30" width="40" />
+  </a>
+  <a href="mailto:harshkathrotiya@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="harshkathrotiya" height="30" width="40" />
   </a>
 </p>
 
@@ -42,3 +45,28 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkathrotiya&show_icons=true&locale=en&layout=compact" alt="harshkathrotiya" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshkathrotiya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="harshkathrotiya" />
+</p>
+
+---
+
+### 📈 My Contribution Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkathrotiya&theme=react&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=harsh&icon=0&color=0)](https://visitcount.itsvg.in)
