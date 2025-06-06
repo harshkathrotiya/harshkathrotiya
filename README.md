@@ -16,8 +16,6 @@
 
 ---
 
-I understand! You need a Markdown-only version with improved layout for your tech stack sections. Here's an enhanced version using only Markdown formatting:
-
 ## 🛠️ Backend Tech Stack
 
 <div align="center">
