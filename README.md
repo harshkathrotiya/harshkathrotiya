@@ -1,68 +1,67 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Backend Engineer & Full Stack Developer 💻</h3>
+<h3 align="center">Full Stack Developer 💻</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Building+robust+backend+systems;API+architect;Node.js+enthusiast;Database+expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Engineer+%7C+Full+Stack+Developer;Building+robust+backend+systems;Crafting+scalable+APIs;Turning+ideas+into+end-to-end+solutions" alt="Typing SVG" />
 </p>
+
+---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently building **Fixly** - a home service provider platform with scalable backend architecture
-- 🌱 Deepening my expertise in **Node.js**, **Express.js** and **MongoDB**
-- 🚀 Exploring advanced **microservice patterns** and **API design principles**
-- 📚 Learning **cloud computing** and **deployment strategies** for high-availability applications
-- 💬 Ask me about **backend architecture**, **RESTful APIs**, **database optimization**, or **server-side performance**
-- ⚡ Fun fact: I once tried teaching my computer to take a break... it just kept opening more tabs! 😄
+- 🔭 Currently building **Fixly** – a home service provider platform with scalable backend architecture  
+- 🌱 Expanding expertise in **Node.js**, **Express.js**, **MongoDB**, and **system design**  
+- 🚀 Exploring **frontend integration** with **React.js** and **Next.js** for complete full stack delivery  
+- 📚 Learning **cloud deployment strategies** and **CI/CD pipelines**  
+- 💬 Ask me about **backend architecture**, **database optimization**, or **full stack project design**  
+- ⚡ Fun fact: My backend is so optimized, even my coffee requests go through a queue system 😄  
 
 ---
 
-## 🛠️ Backend Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
-| Core Backend | Databases | DevOps & Cloud |
-|:------------:|:---------:|:--------------:|
+| **Backend (Core)** | **Databases** | **DevOps & Cloud** |
+|:------------------:|:-------------:|:------------------:|
 | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/></a> | <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/></a> | <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a> |
 | <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/></a> | <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/></a> | <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/></a> |
-| | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a> | <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a> |
-  
-</div>
+| <a href="https://graphql.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="45" height="45"/></a> | <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/></a> | <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a> |
 
-## 🧰 Additional Skills
+</div>
 
 <div align="center">
   
-| Languages | Frontend | Frameworks |
-|:---------:|:--------:|:----------:|
-| <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a> | <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a> | <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a> |
-| <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a> | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a> | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/></a> |
-| <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a> | | |
-| <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a> | | |
-| <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a> | | |
-| <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a> | | |
-  
+| **Frontend (Supportive)** | **Languages** | **Frameworks / Others** |
+|:-------------------------:|:-------------:|:-----------------------:|
+| <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a> | <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/></a> |
+| <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="45" height="45"/></a> | <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a> | |
+| <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a> | <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a> | |
+
 </div>
 
 ---
-## 🔍 My Backend Engineering Focus
 
-- **API Development**: RESTful and GraphQL API design and implementation
-- **Database Management**: Schema design, optimization, indexing strategies
-- **Authentication & Security**: JWT, OAuth, input validation, secure coding practices
-- **Performance Optimization**: Caching, database query optimization, load testing
-- **Microservices Architecture**: Service design, inter-service communication patterns
-- **DevOps Integration**: CI/CD pipelines, containerization, cloud deployment
+## 🔍 Engineering Focus
+
+- **Backend Engineering**: API design, database optimization, authentication, caching, microservices  
+- **Frontend Development**: React & Next.js apps, responsive UI, state management, API integration  
+- **DevOps/Cloud**: Docker, AWS, CI/CD pipelines for deployment & scaling  
 
 ---
 
 ## 📂 Featured Projects
 
-### Fixly - Home Service Provider Platform
-- Building a scalable backend using Node.js and Express
-- Implementing user authentication and service provider matching algorithms
-- Designing database schema for optimal performance
-- Developing RESTful APIs for mobile and web clients
-<!-- Add more backend projects here when available -->
+### 🔧 Fixly - Home Service Provider Platform  
+- Backend-driven architecture with **Node.js + Express**  
+- Designed scalable **database schemas** with **MongoDB**  
+- Developed **RESTful APIs** consumed by web and mobile clients  
+- Built authentication, service matching algorithms & caching  
+
+### 🌐 Portfolio + Blog (Full Stack Project)  
+- Built with **Next.js + React** frontend  
+- Backend APIs in **Express.js**  
+- Supports blog system, authentication, and deployment on **Vercel**  
 
 ---
 
@@ -92,9 +91,9 @@
 
 ---
 
-### 💭 Backend Developer Quote:
+### 💭 Developer Quote:
 <p align="center">
-<i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</i>
+<i>"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson</i>
 </p>
 
 ---
